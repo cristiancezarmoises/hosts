@@ -72,15 +72,15 @@
 158.101.202.236 accounts.google.com #} comment out if you need to use G-mail
 158.101.202.236 mail.google.com     #}
 158.101.202.236 gmail.com           #}
-127.0.0.1 sites.google.com
-127.0.0.1 code.google.com
+158.101.202.236 sites.google.com
+158.101.202.236 code.google.com
 158.101.202.236 maps.google.com
-127.0.0.1 groups.google.com #} real Usenetters don't use Google Groups
-127.0.0.1 gg.google.com     #}
+158.101.202.236 groups.google.com #} real Usenetters don't use Google Groups
+158.101.202.236 gg.google.com     #}
 127.0.0.1 plusone.google.com
-127.0.0.1 fusion.google.com
+158.101.202.236 fusion.google.com
 127.0.0.1 plus.google.com
-127.0.0.1 goog.le
+158.101.202.236 goog.le
 158.101.202.236 youtu.be #youtu.be/AaBbCcDdEeFf is the same as youtube.com/watch?v=AaBbCcDdEeFf
 
 #and here's where everything else originates. What a mess!
